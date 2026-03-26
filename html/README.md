@@ -27,6 +27,11 @@ pip install -r requirements.txt
 python app.py
 
 ### Проверка
-http://127.0.0.1:5000 (/ или /contacts - страница контактов)
-http://127.0.0.1:5000/home (главная страница с товарами)
+URL Описание
+/ или /contacts Страница контактов (основная)
+/home Главная страница с товарами
+/catalog Каталог товаров с фильтрацией
+/category/electronics Категория "Электроника"
+/category/clothing Категория "Одежда"
+/category/home Категория "Дом и сад"
 
